@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Pedro Higuchi 👋
+
+- 🌳 I’m a Forest Engineer...
+- 🔭 I’m currently working as a professor at the Santa Catarina State University/Brazil
+
+
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=higuchip&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higuchip)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **higuchip/higuchip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
