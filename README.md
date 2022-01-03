@@ -6,8 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higuchip)](https://github.com/anuraghazra/github-readme-stats)
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=higuchip&count_private=true)
-
 
 
 <!--
