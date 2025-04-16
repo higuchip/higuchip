@@ -4,8 +4,7 @@
 - 🔭 I’m currently working as a professor at the Santa Catarina State University/Brazil
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higuchip)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higuchip&layout=compact)
 
 
 <!--
