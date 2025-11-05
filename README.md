@@ -13,6 +13,13 @@ Professor Associado IX da **Universidade do Estado de Santa Catarina (UDESC)** e
 - 🎓 **Mestrado** em Ciências Florestais - UFV
 - 🎓 **Graduação** em Engenharia Florestal - UFV
 
+### 🔬 Áreas de Atuação
+Atuo na área de **Ecologia Florestal**, com ênfase em:
+- 🌱 Dinâmica de comunidades e populações arbóreas
+- 🗺️ Modelagem da distribuição de espécies
+- 🌡️ Impacto de mudança climática sobre a vegetação arbórea
+- 🌲 Floresta Ombrófila Mista (FOM)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higuchip&layout=compact)
