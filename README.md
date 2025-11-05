@@ -1,7 +1,18 @@
-### Hi there, I'm Pedro Higuchi 👋
+# 👋 Olá, sou Pedro Higuchi!
 
-- 🌳 I’m a Forest Engineer...
-- 🔭 I’m currently working as a professor at the Santa Catarina State University/Brazil
+🌳 **Engenheiro Florestal** | 🎓 **Professor Associado IX - UDESC** | 🔬 **Docente Permanente - PPG em Engenharia Florestal**
+
+---
+
+## 🌲 Sobre mim
+
+Professor Associado IX da **Universidade do Estado de Santa Catarina (UDESC)** e integrante do corpo docente permanente do **Programa de Pós-Graduação em Engenharia Florestal**. 
+
+### 📚 Formação Acadêmica
+- 🎓 **Doutorado** em Engenharia Florestal - UFLA (com período sanduíche na **Universidade de Oxford**, Reino Unido)
+- 🎓 **Mestrado** em Ciências Florestais - UFV
+- 🎓 **Graduação** em Engenharia Florestal - UFV
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higuchip&layout=compact)
